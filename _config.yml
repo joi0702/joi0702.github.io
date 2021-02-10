@@ -22,31 +22,31 @@ baseurl: ""
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title: 성장 그리고 발전, Jo의 메모장
+subtitle: Jo And Coding
+cover: "/assets/wallpaper.png"
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  'Jo And Coding Blog.'
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  I have a dream to be a process engineer.
+  I will try and grow to learn many things.
 
 # A list of keywords for your blog
 keywords:              []
 
 # Used by jekyll-seo-tag...
-logo:                  /assets/icons/icon.png
+logo: "/assets/microcontroller.png"
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name: Seong Hyeon Jo
+  email: joi0702@naver.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -226,10 +226,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name: Seong Hyeon Jo
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/joi0702
 
 
 # Other Plugins
