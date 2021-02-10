@@ -41,6 +41,7 @@ keywords:              []
 
 # Used by jekyll-seo-tag...
 logo: "/assets/microcontroller.png"
+favicon: assets/Microcontroller.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
@@ -95,7 +96,9 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+# disqus: True
+disqus: True
+disqus_shortname: xxxxxxxx
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -229,7 +232,7 @@ plugins:
 #   name: Seong Hyeon Jo
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/joi0702
+     - https://github.com/joi0702
 
 
 # Other Plugins
