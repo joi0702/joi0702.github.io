@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hyde
-slug: hyde
+title: Coding
+slug: Coding
 menu: true
 order: 1
 description: >
